@@ -1,4 +1,4 @@
-# TODO CLI sing Go, Cobra, GORM, PostgreSQL & Docker
+# TODO CLI built using Go, Cobra, GORM, PostgreSQL & Docker
 
 Simple TODO CLI built in <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="56" height="56" alt="Go" /></a>
 
